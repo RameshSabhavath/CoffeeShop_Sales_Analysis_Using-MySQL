@@ -1,5 +1,5 @@
 
-# ☕ Coffee Shop Sales Analysis – SQL Project Summary
+## ☕ Coffee Shop Sales Analysis – SQL Project Summary
 ### 🎯 Project Objective
 
 ➩ To analyze the monthly performance of coffee shop transactions by calculating key metrics such as sales, orders, quantity trends, and their month-on-month changes to support business decision-making.
